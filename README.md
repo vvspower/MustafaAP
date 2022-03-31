@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [@MustafaAP](https://github.com/MustafaAP)
 
-- 💬 Ask me about ** Software Development and Design 😆**
+- 💬 Ask me about **Software Development and Design 😆**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
