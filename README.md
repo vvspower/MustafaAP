@@ -2,7 +2,7 @@
 <h2 >Hello folks <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h2>
 
 
-- 🌱 I’m currently learning **TypeScript , Python , GoLang** 
+- 🌱 I’m currently learning **TypeScript , GoLang** 
 - 👯 I’m looking to collaborate on **ReactJS**
 
 - 🤝 I’m looking for help with **Data structures**
